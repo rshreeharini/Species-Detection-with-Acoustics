@@ -1,4 +1,5 @@
 # Species-Detection-with-Acoustics
 Automatic species detection with AI
 
-![Species detection pipeline](https://octodex.github.com/images/yaktocat.png)
+![Species detection pipeline](![img](https://user-images.githubusercontent.com/41253150/120697223-b0fed400-c46a-11eb-851e-0309deb55c1f.png)
+
